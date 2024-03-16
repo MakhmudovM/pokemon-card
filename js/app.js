@@ -17,3 +17,4 @@ function pudateUi(pokeInfo) {
 async function getData(api) {
     
 }
+
